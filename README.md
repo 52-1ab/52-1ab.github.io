@@ -1,9 +1,15 @@
 ---
 title: 52 Lab
 header-includes: |
-  <title>52 1ab</title>
+  <meta charset="UTF-8">
+  <meta name="og:title" content="52 Lab" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" sizes="512x512" href="/icon.png">
   <meta name="keywords" content="52 Lab, 52 1ab" />
+  <meta property="og:url" content="https://52-1ab.github.io/">
   <meta name="description" content="52 1ab (52 Lab) is a Software Research group dedicated to interoperabilty research in India." />
+  <meta name="og:description" content="52 1ab (52 Lab) is a Software Research group dedicated to interoperabilty research in India." />
+  <meta property="og:image" content="https://52-1ab.github.io/icon.png">
 ---
 52 1ab (Pronounced 52 Lab) is a Software Research group dedicated to
 interoperabilty research in India. It is named after the [Section 52(1)
@@ -20,6 +26,7 @@ interoperabilty research in India. It is named after the [Section 52(1)
 
 Coming soon, stay tuned.
 
-## Logo
+## Credits
 
-[Chemistry icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/chemistry)
+- [Chemistry icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/chemistry)
+- [simple.css](https://github.com/kevquirk/simple.css) framework by Kevin Quirk
