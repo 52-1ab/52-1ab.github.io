@@ -1,5 +1,10 @@
-# 52 1ab
-
+---
+title: 52 Lab
+header-includes: |
+  <title>52 1ab</title>
+  <meta name="keywords" content="52 Lab, 52 1ab" />
+  <meta name="description" content="52 1ab (52 Lab) is a Software Research group dedicated to interoperabilty research in India." />
+---
 52 1ab (Pronounced 52 Lab) is a Software Research group dedicated to
 interoperabilty research in India. It is named after the [Section 52(1)
 (ab) of The Copyright Act](https://indiankanoon.org/doc/192487119/) which states:
