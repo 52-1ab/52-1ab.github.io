@@ -28,6 +28,8 @@ Drop a mail at <521ab@captnemo.in> with a mention
 of what you would like to Reverse Engineer and
 what you have already reversed. 
 
+![QR Code](https://github.com/user-attachments/assets/ea1defbd-2ff3-482e-b228-01a788dae767)
+
 ## Credits
 
 - [Chemistry icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/chemistry)
