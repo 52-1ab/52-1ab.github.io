@@ -24,7 +24,9 @@ interoperabilty research in India. It is named after the [Section 52(1)
 
 # How to Join
 
-Coming soon, stay tuned.
+Drop a mail at <521ab@captnemo.in> with a mention
+of what you would like to Reverse Engineer and
+what you have already reversed. 
 
 ## Credits
 
