@@ -10,6 +10,7 @@ header-includes: |
   <meta name="description" content="52 1ab (52 Lab) is a Software Research group dedicated to interoperabilty research in India." />
   <meta name="og:description" content="52 1ab (52 Lab) is a Software Research group dedicated to interoperabilty research in India." />
   <meta property="og:image" content="https://52-1ab.github.io/icon.png">
+  <script async src="https://tally.so/widgets/embed.js"></script>
 ---
 52 1ab (Pronounced 52 Lab) is a Software Research group dedicated to
 interoperabilty research in India. It is named after the [Section 52(1)
@@ -22,9 +23,23 @@ interoperabilty research in India. It is named after the [Section 52(1)
   with other programmes by a lawful possessor of a computer programme
   provided that such information is not otherwise readily available.
 
-# How to Join
+# What's for Members
 
-Coming soon, stay tuned.
+- Legal advice from real lawyers
+- A small community of like-minded researchers
+- Exciting projects to work on
+- A CTF team
+
+# Apply
+
+If the above sounds exciting, you can apply to join. All applications are
+vetted by a small team. 
+
+<noscript>Please visit <a href="https://tally.so/r/3qXAE9"></a></noscript> to apply.
+
+<button data-tally-open="3qXAE9" data-tally-layout="modal" data-tally-width="500">Apply</button>
+
+---
 
 ## Credits
 
