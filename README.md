@@ -10,7 +10,6 @@ header-includes: |
   <meta name="description" content="52 1ab (52 Lab) is a Software Research group dedicated to interoperabilty research in India." />
   <meta name="og:description" content="52 1ab (52 Lab) is a Software Research group dedicated to interoperabilty research in India." />
   <meta property="og:image" content="https://52-1ab.github.io/icon.png">
-  <script async src="https://tally.so/widgets/embed.js"></script>
 ---
 52 1ab (Pronounced 52 Lab) is a Software Research group dedicated to
 interoperabilty research in India. It is named after the [Section 52(1)
