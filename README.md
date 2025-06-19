@@ -35,7 +35,7 @@ interoperabilty research in India. It is named after the [Section 52(1)
 If the above sounds exciting, you can apply to join. All applications are
 vetted by a small team.
 
-<a class=button href="https://tally.so/r/3qXAE9">Apply</a>
+<a class=button style="width:100%;display:block; text-align: center; padding: 10px;" href="https://tally.so/r/3qXAE9">Apply</a>
 
 ---
 
