@@ -42,3 +42,4 @@ vetted by a small team.
 
 - [Chemistry icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/chemistry)
 - [simple.css](https://github.com/kevquirk/simple.css) framework by Kevin Quirk
+- Thanks to [Zulip](https://zulip.com/) for sponsoring a [Zulip Cloud Standard plan](https://zulip.com/for/open-source/).
